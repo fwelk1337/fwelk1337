@@ -1,6 +1,6 @@
 # Heyho 👋
 
-Low/Mid-Level Engineer who likes to break things
+Junior/Mid-Level Engineer who likes to break things
 
 ## Things i work the most with
 
