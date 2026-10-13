@@ -8,7 +8,7 @@ Mid-Level Engineer 🧌 who likes to break things
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
 ![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
 ![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-1448C8?style=flat&logo=azuredevops&logoColor=white)
-![Claude](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=claude&logoColor=white)
+![Claude](https://img.shields.io/badge/claude-7B42BC?style=flat&logo=claude&logoColor=white)
 
 ## 🔁 Stats
 
